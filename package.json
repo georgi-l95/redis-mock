@@ -1,13 +1,13 @@
 {
-  "name": "redis-mock",
-  "version": "0.56.4",
+  "name": "mock-node-redis",
+  "version": "0.56.5",
   "description": "Redis client mock object for unit testing",
   "author": "Kristian Faeldt <kristian.faeldt@gmail.com>",
   "main": "./lib/index",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yeahoffline/redis-mock"
+    "url": "https://github.com/georgi-l95/redis-mock"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
